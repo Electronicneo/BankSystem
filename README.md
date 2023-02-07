@@ -10,8 +10,8 @@ Bank System Project
 -spring.jpa.hibernate.ddl-auto = update
 -Gjithashtu duhet te shtohen dy rreshta ne tabelen role si me poshte:
 
--role_Id   name
--0         ROLE_USER
--1         ROLE_ADMIN
+role_Id   name
+0         ROLE_USER
+1         ROLE_ADMIN
 
 
